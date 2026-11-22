@@ -58,7 +58,6 @@ The launcher opens BreakLab in an app-style Chromium/Brave window. It does not r
 - Create equal or hand-drawn uneven slices; preview, trim, and add slices.
 - Trigger slices with a computer keyboard or external MIDI keyboard. Chromatic mapping includes black keys.
 - Set slice start/end points, pitch, and time stretch; apply pitch/stretch to selected slices together.
-- Reverse individual slices or a selected group; the setting carries into playback, projects, and sample exports.
 - Shape sound with filter, resonance, drive, phaser, tempo-synced delay, and reverb.
 - Build 1–4 bar patterns with per-bar randomisation, swing, reversal, undo, and MIDI export.
 - Export processed WAV loops, 12-bit ZP12 sample packs, and SLOOP sample packs with matching MIDI.
