@@ -1,0 +1,11 @@
+.git
+.DS_Store
+*.bbwp
+*.wav
+*.mp3
+*.png
+README.md
+LICENSE
+install-linux.sh
+launch.sh
+uninstall-linux.sh
