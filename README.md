@@ -8,9 +8,9 @@
 
 The Linux desktop build running with the main editor and several retro skins:
 
-![BreakLab main editor](screenshot-breaklab-main.png)
+![BreakLab main editor](breaklab-editor-main.png)
 
-![Slice controls, effects and export options](screenshot-breaklab-controls.png)
+![Slice controls, effects and export options](breaklab-editor-effects.png)
 
 ![ZX Spectrum skin](screenshot-skin-zx-spectrum.png)
 
