@@ -4,23 +4,18 @@
 
 ## Run it
 
-Open `index.html` in Brave, Chromium, or Chrome. Audio is processed in your browser and stays on your computer.
+Open index.html in Brave, Chromium, or Chrome. Audio is processed in your browser and stays on your computer.
 
-For MIDI input, use a Chromium-based browser, connect the keyboard before opening BreakLab, then choose **Connect MIDI keyboard** and select its input.
+For MIDI input, use a Chromium-based browser, connect the keyboard before opening BreakLab, then choose Connect MIDI keyboard and select its input.
 
 ## Install the Linux desktop launcher
 
 The launcher opens BreakLab in an app-style Chromium/Brave window. It does not require Node, Electron, or an internet connection after download. You need one of Brave, Chromium, or Google Chrome installed.
 
-1. Download and extract this repository.
-2. Open a terminal in the extracted `BreakLab-Workbench` folder.
-3. Run:
-
-   ```bash
-   ./install-linux.sh
-   ```
-
-4. Find **BreakLab** in the Applications menu. To remove it later, run `./uninstall-linux.sh` from the extracted folder.
+1. Download this repository as a ZIP and extract it.
+2. Open a terminal in the extracted repository folder (usually named breaklab-workbench-main).
+3. Run ./install-linux.sh
+4. Find BreakLab in the Applications menu. To remove it later, run ./uninstall-linux.sh from the extracted folder.
 
 ## Features
 
@@ -32,7 +27,7 @@ The launcher opens BreakLab in an app-style Chromium/Brave window. It does not r
 - Build 1–4 bar patterns with per-bar randomisation, swing, reversal, undo, and MIDI export.
 - Export processed WAV loops, 12-bit ZP12 sample packs, and SLOOP sample packs with matching MIDI.
 - Choose retro skins including BBC Micro, ZX Spectrum, Atari ST, Amiga Workbench, Commodore 64, Vector CRT, and 70s/80s/90s looks.
-- Save and reopen `.bbwp` projects. Skin and Break Scope preferences are remembered in the browser.
+- Save and reopen .bbwp projects. Skin and Break Scope preferences are remembered in the browser.
 
 ## Audio and device notes
 
@@ -44,4 +39,4 @@ Bug reports, feature ideas, and pull requests are welcome. Keep changes self-con
 
 ## License
 
-BreakLab is distributed under the GNU General Public License v3.0 or later. See [LICENSE](LICENSE).
+BreakLab is distributed under the GNU General Public License v3.0 or later. See LICENSE.
